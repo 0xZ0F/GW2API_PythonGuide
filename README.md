@@ -21,5 +21,5 @@ You need to pay attention to whether you need an API key or not. Most of the API
 
 ### Once you're ready, head to [1-MakingAPICalls](1-MakingAPICalls.md)
 
-# Getting Daily Achievements
+# Getting Bank Content
 For our first endeavor, let's take a look at getting a list of all of your bank items.
