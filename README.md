@@ -20,6 +20,3 @@ If you ever need to know where to get information from the API, the WIKI is your
 You need to pay attention to whether you need an API key or not. Most of the API does not require a key, but some does so pay attention! Things like guild and player details will require authentication, whereas general achievement, game, or item information will not. The WIKI will tell you if it needs a key.
 
 ### Once you're ready, head to [1-MakingAPICalls](1-MakingAPICalls.md)
-
-# Getting Bank Content
-For our first endeavor, let's take a look at getting a list of all of your bank items.
